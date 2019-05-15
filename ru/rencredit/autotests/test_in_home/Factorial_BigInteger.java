@@ -1,3 +1,5 @@
+package ru.rencredit.autotests.test_in_home;
+
 import java.math.BigInteger;
 
 public class Factorial_BigInteger {
