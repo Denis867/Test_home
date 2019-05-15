@@ -10,7 +10,6 @@ public class FactorialTest {
     @Test
     public void testMain() {
         int expected = 120;
-        Factorial fact = new Factorial(expected);
         Assert.assertEquals("UraFact", expected, Factorial);
 
     }
