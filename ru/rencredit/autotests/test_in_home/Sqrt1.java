@@ -5,5 +5,4 @@ public class Sqrt1 {
         int i = 16;
         System.out.println("Корень квадратный из " + i + " = " + Math.round(Math.sqrt(i)));
     }
-
-   }
+}
