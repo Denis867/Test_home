@@ -6,8 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/tests" isTestSource="true" />
     </content>
+    <content url="file://$MODULE_DIR$/src" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="testng-6.14.3" level="project" />
+    <orderEntry type="library" name="testng-6.14.31" level="project" />
+    <orderEntry type="library" name="testng-6.14.3" level="application" />
   </component>
 </module>
