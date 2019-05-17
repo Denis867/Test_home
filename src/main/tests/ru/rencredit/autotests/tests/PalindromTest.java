@@ -13,7 +13,8 @@ public class PalindromTest {
 
     @Test
     public void testPalindrom() {
-        Assert.assertEquals("madam", palindrom.palindromix(toLowerCase("MaDaM")));
-
+        String text = "1ma dam55555";
+        text = text.replaceAll("[^a-zA-Z]", "");
+        Assert.assertEquals(text, palindrom.palindromix(toLowerCase("MaDaM")));
     }
 }
