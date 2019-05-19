@@ -7,7 +7,6 @@ class Scanner1 {
         Scanner scanner1 = new Scanner(System.in);       // put your code here
         int num1 = scanner1.nextInt();
         int num2 = scanner1.nextInt();
-
         System.out.println(num2 + " " + num1);
     }
 }
